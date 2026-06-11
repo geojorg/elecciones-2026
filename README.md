@@ -5,13 +5,18 @@ Realiza un análisis comparativo objetivo y riguroso de los dos planes de gobier
 
 Para la comparación, utiliza los siguientes ejes temáticos centrales (si no están explícitos en los planes, infiérelos de forma razonada):
 
-Crecimiento económico y empleo
-Pobreza y desigualdad
-Seguridad y justicia
-Salud y educación
-Sostenibilidad ambiental y transición energética
-Gobernabilidad y corrupción
-Crea un dashboard en formato de tabla con las siguientes columnas:
+Seguridad y orden público
+Economía y finanzas públicas
+Anticorrupción
+Salud pública
+Educación
+Política rural y campo
+Energía y sector minero-energético
+Mujeres y equidad de género
+Medio ambiente y biodiversidad
+Institucionalidad democrática
+Paz y conflicto armado
+Política social y pobreza
 
 Eje temático
 Plan A – Puntuación (0 a 10) – basada en viabilidad, coherencia interna, alineación con el contexto colombiano y solidez de las propuestas.
